@@ -28,7 +28,7 @@ nav {
   font-weight: 800;
   color: #ff5400;
 }
-li {
+.links li {
   list-style: none;
   color: #424247;
   font-size: 18px;
